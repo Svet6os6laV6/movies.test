@@ -1,0 +1,9 @@
+@import "../assets/admin/plugins/fontawesome-free/css/all.min.css";
+@import "../assets/admin/plugins/select2/css/select2.min.css";
+@import "../assets/admin/css/adminlte.css";
+.select2-container{
+width: 100%!important;
+}
+html, body, .wrapper{
+    overflow-x: hidden;
+}
